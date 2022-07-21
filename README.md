@@ -1,2 +1,1 @@
-# radius-checker-custom-plugin-test
-Test Radius Checker
+radius-checker-custom-plugin-test

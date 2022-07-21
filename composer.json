@@ -1,0 +1,5 @@
+{
+    "require": {
+        "stepandalecky/kml-parser": "^0.2.2"
+    }
+}
