@@ -10,3 +10,7 @@ Radius Checker Test <br/><br/>
 - Google Map Zone URL <br/>	
 - Action URL (inside the radius) <br/>	
 - Action URL (outside the radius) <br/>
+
+=== Shortcode === <br/><br/>
+
+[radius-checker-test]<br/>
