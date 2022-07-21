@@ -11,6 +11,6 @@ Radius Checker Test <br/><br/>
 - Action URL (inside the radius) <br/>	
 - Action URL (outside the radius) <br/>
 
-=== Shortcode === <br/><br/>
+=== Shortcode need added into post page on the admin panel === <br/>
 
 [radius-checker-test]<br/>
