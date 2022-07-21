@@ -1,4 +1,4 @@
-radius-checker-custom-plugin-test <br/>
+wp-content/plugins/radius-checker-custom-plugin-test <br/>
 composer install to load vendor library <br/><br/>
 
 On the admin panel you can setting <br/>
